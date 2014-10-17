@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tru:home|Door43 (tru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tru|d43-tru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tru/archive/master.zip|d43-tru.zip]]
+
+**Recent Changes**
+{{changes>ns = tru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tru|Ethnologue data]]
+
